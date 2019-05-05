@@ -1,0 +1,31 @@
+form
+{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.container
+{
+    width: 960px;
+}
+
+.top-buffer
+{
+    margin-top:20px; 
+}
+
+.caption
+{
+    position: absolute;
+    top: 55%;
+    left: 15%;
+    width: 100%;
+    color: white;
+}
+
+img
+{
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+}
